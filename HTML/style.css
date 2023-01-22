@@ -33,7 +33,8 @@ h1::after {
 
 @keyframes blink {
     0% {color: transparent}
-    100% {color: #CFDBD5;}
+    50% {color: #CFDBD5;}
+    0% {color: transparent;}
 }
 
 div.card {

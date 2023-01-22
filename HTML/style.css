@@ -119,6 +119,7 @@ div.authors-flex .author {
     min-width: 100px;
     font-family: 'Bebas Neue', sans-serif;
     font-size: 16pt;
+    -webkit-user-select: none;
     user-select: none;
     color: #303030;
     text-shadow: 0px 0px 3px #080808;

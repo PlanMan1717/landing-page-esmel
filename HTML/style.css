@@ -113,6 +113,7 @@ div.authors-flex {
 }
 
 div.authors-flex .author {
+    text-decoration: none;
     text-align: center;
     display: block;
     flex: 33%;

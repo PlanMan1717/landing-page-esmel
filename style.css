@@ -45,12 +45,13 @@ div.card {
     left: 10%;
     position: relative;
     display: block;
-    height: 150px;
+    padding-bottom: 5px;
     z-index: 1;
 }
 
 div.card.large {
     margin-bottom: 20px;
+    height: 150px;
 }
 
 div.card.station {
